@@ -1,0 +1,12 @@
+Python is a high-level programming language created by Guido van Rossum.
+Python is commonly used for backend development, data analysis, automation, and artificial intelligence.
+
+Flask is a lightweight Python web framework.
+FastAPI is a modern Python framework commonly used to build APIs.
+FastAPI supports asynchronous programming and uses Pydantic for data validation.
+
+AWS Lambda is a serverless compute service.
+It allows developers to run code without managing servers.
+
+Azure Functions is Microsoft's serverless compute service.
+It supports Python, JavaScript, C#, Java, and other languages.
